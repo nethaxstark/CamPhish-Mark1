@@ -8,7 +8,7 @@
 
 # CamPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
-![cheese](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
+![cheese](https://i2.wp.com/www.gamerrworld.com/wp-content/uploads/2021/06/Screenshot_2021-06-20_06-04-34.png?resize=768%2C432&ssl=1)
 
 # What is CamPhish?
 <p>CamPhish is techniques to take cam shots of target's phone fornt camera or PC webcam. CamPhish Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
@@ -45,7 +45,7 @@ cd CamPhish
 bash camphish.sh
 ```
 ### Video Demo
-[![How to control android camera](https://img.youtube.com/vi/G_nNHrWwCOM/0.jpg)](https://www.youtube.com/watch?v=G_nNHrWwCOM)
-#### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
+[![How to control android camera](https://www.youtube.com/channel/UCkKAuBR19RJZGbOj7YwcrJg/featured)
+#### For More Video subcribe <a href="https://www.youtube.com/channel/UCkKAuBR19RJZGbOj7YwcrJg/featured">nethaxstark YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
