@@ -1,3 +1,8 @@
+#Don't do any illegal activity from this.
+#This tool is for only educational purposes only.
+#Supported by thelinuxchoice and Techchip.
+#Nethaxstark does not support illegal activities.
+
 # CamPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 ![cheese](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
