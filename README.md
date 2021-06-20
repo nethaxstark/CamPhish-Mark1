@@ -1,6 +1,9 @@
 #Don't do any illegal activity from this.
+
 #This tool is for only educational purposes only.
+
 #Supported by thelinuxchoice and Techchip.
+
 #Nethaxstark does not support illegal activities.
 
 # CamPhish
